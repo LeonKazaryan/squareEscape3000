@@ -1,0 +1,6 @@
+# Исключить .env файлы
+back/.env
+front/.env
+
+# Исключить node_modules (если есть)
+node_modules/
